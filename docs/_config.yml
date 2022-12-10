@@ -1,10 +1,10 @@
 # Site Settings
-lang: en
+lang: es
 title: Bulma Clean Theme
-tagline: Bulma Clean Theme
-email: your-email@domain.com
-description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+tagline: MCD-UNISON
+email: lu.fernando2901@gmail.com
+description: Página del proyecto final del curso Ingeniería de Características de la maestría en Ciencia de Datos, que describe el proceso de obtener, limpieza y 
+visualización de la información sobre las defunciones por diabetes en el Estado de Sonora
 baseurl: "/bulma-clean-theme"
 url: "https://www.csrhymes.com"
 permalink: pretty
