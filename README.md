@@ -17,4 +17,6 @@ Una parte importante de un proyecto de ciencia de datos es analizar la informaci
 
 <img src="https://github.com/Fernando-LunaP/Proyecto_Integrador_Ing_Caracteristicas/blob/main/Imagenes/Matriz%20de%20correlaci%C3%B3n.JPG" width="750">
 
+Se realizó también el PCA, el proyecto realmente no lo requiere, solo unas funciones muy sencillas de agregación, pero siempre es bueno practicar, no se sabe en que momento se pueda requerir!
+
 
