@@ -15,4 +15,6 @@ En esta parte se realizaron varias tareas en la siguiente [libreta](https://gith
 # Análisis exploratorio de datos
 Una parte importante de un proyecto de ciencia de datos es analizar la información que cae en nuestras manos, muchas veces puede que nos de una sorpresa. Se realizó un EDA automático.
 
-<img src="https://mcd.unison.mx/wp-content/themes/awaken/img/logo_mcd.png](https://github.com/Fernando-LunaP/Proyecto_Integrador_Ing_Caracteristicas/blob/main/Imagenes/Matriz%20de%20correlaci%C3%B3n.JPG" width="150">
+<img src="https://github.com/Fernando-LunaP/Proyecto_Integrador_Ing_Caracteristicas/blob/main/Imagenes/Matriz%20de%20correlaci%C3%B3n.JPG" width="750">
+
+
