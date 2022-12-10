@@ -20,6 +20,6 @@ Una parte importante de un proyecto de ciencia de datos es analizar la informaci
 Se realizó también el PCA, el proyecto realmente no lo requiere, solo unas funciones muy sencillas de agregación, pero siempre es bueno practicar, no se sabe en que momento se pueda requerir!
 
 # Visualización
-Para esta parte se realizó un tablero utilizando tableau para mostrar todas las estadísticas que consideramos relevantes. Tiene interacción pero realmente es muy sencillo, sin necesidad de tanta complejidad. Lo puedes consultar [aquí](https://public.tableau.com/app/profile/fernando.luna.ponce/viz/DiabetesenSonora/DashboardDiabetesSonora)
+Para esta parte se realizó un tablero utilizando tableau para mostrar todas las estadísticas que consideramos relevantes. Tiene interacción pero realmente es muy sencillo, sin necesidad de tanta complejidad. Lo puedes consultar [aquí](https://public.tableau.com/app/profile/fernando.luna.ponce/viz/DiabetesenSonora/DashboardDiabetesSonora).
 
 
