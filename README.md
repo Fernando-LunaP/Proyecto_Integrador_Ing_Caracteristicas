@@ -11,3 +11,8 @@ Si quieres ver como se descarga la información, puedes consultar [esta libreta]
 
 # Limpieza de datos
 En esta parte se realizaron varias tareas en la siguiente [libreta](https://github.com/Fernando-LunaP/Proyecto_Integrador_Ing_Caracteristicas/blob/main/Codigo/02_Limpieza_de_datos.ipynb) para obtener un dataframe que contenga únicamente nuestras variables de interés. Esta información se almacenó en archivos parquet. En esta [carpeta](https://github.com/Fernando-LunaP/Proyecto_Integrador_Ing_Caracteristicas/tree/main/datos) puedes ver los datos generados por las libretas o puedes ejecutarlas y obtendrás el mismo resultado.
+
+# Análisis exploratorio de datos
+Una parte importante de un proyecto de ciencia de datos es analizar la información que cae en nuestras manos, muchas veces puede que nos de una sorpresa. Se realizó un EDA automático.
+
+<img src="https://mcd.unison.mx/wp-content/themes/awaken/img/logo_mcd.png](https://github.com/Fernando-LunaP/Proyecto_Integrador_Ing_Caracteristicas/blob/main/Imagenes/Matriz%20de%20correlaci%C3%B3n.JPG" width="150">
